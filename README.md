@@ -1,4 +1,4 @@
-# Shaligula-Puzzle Template Unity Game
+# Puzzle Template Unity Game
 
 Puzzle game Template for Unity3D
 

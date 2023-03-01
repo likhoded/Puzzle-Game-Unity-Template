@@ -35,11 +35,11 @@ Commercial assets of resources are used in the UI, their commercial use is prohi
 
 ### Генерация стандартных пазлов
 ```csharp
-GeneratePuzzle([JIGSAW ROWS], [JIGSAW COLUMNS], [JIGSAW IMAGE]);
+GeneratePuzzle([КОЛ-ВО СТРОК], [КОЛ-ВО СТОБЦОВ], [ИЗОБРАЖЕНИЕ ПАЗЛОВ]);
 ```
 ### Генерация квадратных пазлов
 ```csharp
-GeneratePlane([JIGSAW ROWS], [JIGSAW COLUMNS], [JIGSAW IMAGE]);
+GeneratePlane([КОЛ-ВО СТРОК], [КОЛ-ВО СТОБЦОВ], [ИЗОБРАЖЕНИЕ ПАЗЛОВ]);
 ```
 
 Шаблон включает в себя готовую игру.

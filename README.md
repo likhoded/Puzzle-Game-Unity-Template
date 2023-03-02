@@ -8,9 +8,9 @@ Puzzle game Template for Unity3D
 
 The template includes:
 
-*Generation of a canvas of jigsaw of different sizes (3x3, 4x4, etc.), based on the division of the picture into several sprites.
-*Hints that move a random puzzle to the right place on the canvas.
-*Simple addition of new pictures to generate puzzles, as well as simple addition of new puzzle templates.
+* Generation of a canvas of jigsaw of different sizes (3x3, 4x4, etc.), based on the division of the picture into several sprites.
+* Hints that move a random puzzle to the right place on the canvas.
+* Simple addition of new pictures to generate puzzles, as well as simple addition of new puzzle templates.
 
 
 ### Generating a standard jigsaw
@@ -33,9 +33,9 @@ Commercial assets of resources are used in the UI, their commercial use is prohi
 
 Шаблон включает в себя:
 
-*Генерация холста пазлов разных размеров(3x3, 4x4 и т.д.), на основе разделения картинки на несколько спрайтов.
-*Подсказки, которые перемещают случайный пазл на нужное место на холсте.
-*Простое добавление новых картинок для генерации пазлов, а также простое добавление новых шаблонов пазлов.
+* Генерация холста пазлов разных размеров(3x3, 4x4 и т.д.), на основе разделения картинки на несколько спрайтов.
+* Подсказки, которые перемещают случайный пазл на нужное место на холсте.
+* Простое добавление новых картинок для генерации пазлов, а также простое добавление новых шаблонов пазлов.
 
 ### Генерация стандартных пазлов
 ```csharp

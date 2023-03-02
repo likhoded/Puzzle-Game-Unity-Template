@@ -3,6 +3,8 @@
 Puzzle game Template for Unity3D
 ![image](https://user-images.githubusercontent.com/24777994/222443639-e00ecd66-11bd-4656-b82b-1770313ad551.png)
 ![image](https://user-images.githubusercontent.com/24777994/222443805-ca644aa4-2bbb-4691-8344-c07502b25e39.png)
+![image](https://user-images.githubusercontent.com/24777994/222444065-e1f299f3-0080-4d00-9cfa-dbcad223a60b.png)
+![image](https://user-images.githubusercontent.com/24777994/222444225-0c5edf12-f4b2-44ea-9528-5de14c434dc4.png)
 
 The template includes:
 
